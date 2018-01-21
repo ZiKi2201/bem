@@ -1,0 +1,9 @@
+.FixedRightDiv {
+    border-left: 1px solid lightgrey;
+    width: 300px;
+    position: fixed;
+}
+
+.FixedRightDiv__Clip {
+    padding-top: 10px;
+}

@@ -1,0 +1,17 @@
+.Music_1 {
+    float: left;
+    margin-top: 25px;
+    margin-left: 15px
+}
+
+.Music_1__MusicName_1 {
+    font-size: 14px;
+    color: #646464;
+    letter-spacing: 0.16px;
+}
+
+.Music_1__Singer_1 {
+    font-size: 10px;
+    color: #646464;
+    letter-spacing: 0.11px;
+}

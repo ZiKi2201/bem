@@ -1,0 +1,11 @@
+.Viewed {
+    width: 640px;
+    padding-top: 10px;
+    padding-left: 15px;
+}
+
+.Viewed__Context {
+    font-size: 15px;
+    color: #646464;
+    letter-spacing: 0.2px;
+}

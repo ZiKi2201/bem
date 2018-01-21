@@ -1,0 +1,20 @@
+.MusicDiv_1 {
+    float: left;
+    margin-top: 10px;
+    height: 65px;
+    width: 99%;
+    min-width: 300px;
+}
+
+.MusicDiv_1:hover{
+    outline: 1px solid lightgray;
+}
+
+.MusicDiv_1__Album{
+    float: left;
+    margin-left: 5px;
+    margin-top: 20px;
+    width: 40px;
+    height: 40px;
+    background-size: cover;
+}

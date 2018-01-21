@@ -1,0 +1,11 @@
+.Select {
+    float: left;
+    margin-top: 25px;
+    margin-right: 10px;
+}
+select{
+    font-size: 15px;
+    border-radius: 20px;
+    outline: none;
+}
+

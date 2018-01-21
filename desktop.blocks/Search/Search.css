@@ -1,0 +1,23 @@
+.Search {
+    float: left;
+    margin-left: 200px;
+    margin-top: 30px;
+}
+input{
+    border: 1px solid #E0E0E0;
+    padding: 10px;
+    font-size: 14px;
+    color: #B8B8B8;
+    letter-spacing: 0.16px;
+    outline: none;
+
+}
+.Search__Submit{
+    width: 35px;
+    outline: none;
+    background: url("img/search-icon.png") no-repeat;
+    background-size: cover;
+    float: right;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+}
